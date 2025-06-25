@@ -6,3 +6,5 @@ node_modules/
 user_generated/
 *.pyc
 .DS_Store
+!requirements.txt
+
